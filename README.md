@@ -1,5 +1,5 @@
 # world-execute-me
-Python implementation of [Mili - world.execute\(me\)](https://www.youtube.com/watch?v=ESx_hy1n7HA) 
+Rust implementation of [Mili - world.execute\(me\)](https://www.youtube.com/watch?v=ESx_hy1n7HA) 
 ```rust
 fn main() {
 
@@ -266,3 +266,9 @@ fn main() {
     };
 }
 ```
+
+## 参考项目
+
+[GodDrinksJava](https://github.com/DeflatedPickle/GodDrinksJava)
+
+[world.executeme.py](https://github.com/nyanye/world.execute.me.py)
