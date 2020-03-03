@@ -1,1 +1,1 @@
-Zx
+pub struct Tomato;

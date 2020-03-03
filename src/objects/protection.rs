@@ -7,6 +7,8 @@ impl Protection {
         self.status = true;
         self.status
     }
+
+    #[allow(dead_code)]
     pub fn put_off(&mut self) -> bool {
         self.status = false;
         self.status

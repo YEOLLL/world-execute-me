@@ -7,6 +7,8 @@ impl PowerLine {
         self.status = true;
         self.status
     }
+
+    #[allow(dead_code)]
     pub fn swith_off(&mut self) -> bool {
         self.status = false;
         self.status
